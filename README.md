@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt text](./Image/background1.jpg)
+![Alt text](./Image/headimg.jpg)
