@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 观测行星
+- 🌱 观测植物
+- ⚡ 这将是快速的 ...
 
 ![HeadImage](./Image/headImage.jpg)
